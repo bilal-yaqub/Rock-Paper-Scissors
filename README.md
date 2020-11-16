@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors
+Rock, Paper or Scissors where the the computer chooses rock, paper or scissors randomly using random integer.
